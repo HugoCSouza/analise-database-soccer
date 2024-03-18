@@ -23,3 +23,5 @@ Toda a análise descritiva e exploratória está demonstrada [neste notebook](tr
 - [Pandas](https://pandas.pydata.org/)
 - [Psycopg ](https://pypi.org/project/psycopg2/)
 - [Contato](https://www.linkedin.com/in/hugo-cs-souza/)
+
+#### Caso tenha dúvidas ou sugestões de melhoria, em link úteis está meu contato ou, se preferir, pode solicitiar um pull request.
